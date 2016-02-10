@@ -3,6 +3,8 @@ A corona scene for showing all the Womi apps.
 
 - Current Version : 1.0.0
 
+![Screenshot](https://github.com/iranjith4/coronawomiapps/blob/master/screenshot.png)
+
 ## Integration
 1. Copy the `coronawomiapps` folder from the repository and place at the top level in your corona app where `main.lua` is.
 2. Add the Internet Permission for the app. (Only for android)
